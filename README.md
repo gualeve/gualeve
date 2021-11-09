@@ -1,4 +1,11 @@
-### Hi there 👋
+## 👋 Hello, Welcome to my Github profile.
+### My name is Adalberto Gualeve and my nickname is gualeve!
+
+<div>
+<a href="https://github.com/gualeve">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gualeve&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gualeve&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **gualeve/gualeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
